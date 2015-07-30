@@ -1,0 +1,17 @@
+{
+    "main": "index.html",
+    "name": "NW.js webM Demo",
+    "description": "webM demo with HTML5 video on NW.js by Teerasej Jiraphatchandej, teerasej@nextflow.in.th",
+    "version": "0.5.0",
+    "window": {
+        "title": "webM Demo",
+        "icon": "link.png",
+        "toolbar": true,
+        "frame": true,
+        "width": 800,
+        "height": 600,
+        "position": "mouse",
+        "min_width": 800,
+        "min_height": 600
+    }
+}
